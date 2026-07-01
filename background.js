@@ -36,7 +36,8 @@ const URL_MAP = {
   "||miniblox.*textures/models/armor/iron_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/iron_layer_2.png",
   "||miniblox.*textures/models/armor/leather_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/leather_layer_1.png",
   "||miniblox.*textures/models/armor/leather_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/leather_layer_2.png",
-  "||miniblox.*textures/elytra.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21/assets/minecraft/textures/entity/elytra.png"
+  "||miniblox.*textures/elytra.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21/assets/minecraft/textures/entity/elytra.png",
+  "||miniblox.*textures/entity/minecart/minecart.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21/assets/minecraft/textures/entity/minecart.png"
 };
 
 
