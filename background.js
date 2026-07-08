@@ -43,7 +43,9 @@ const URL_MAP = {
   "||miniblox.*textures/entity/enchanting_table_book.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/24w21a/assets/minecraft/textures/entity/enchanting_table_book.png",
   "||miniblox.*textures/entity/experience_orb.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/24w21a/assets/minecraft/textures/entity/experience_orb.png",
   "||miniblox.*textures/entity/villager/butcher.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/villager/villager.png",
-  "||miniblox.*textures/mace.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/item/mace.png"
+  "||miniblox.*textures/mace.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/item/mace.png",
+  "||miniblox.*textures/spear/diamond_spear.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/26.2/assets/minecraft/textures/item/diamond_spear.png",
+  "||miniblox.*textures/spear/diamond_spear_in_hand.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/26.2/assets/minecraft/textures/item/diamond_spear_in_hand.png"
 };
 
 
